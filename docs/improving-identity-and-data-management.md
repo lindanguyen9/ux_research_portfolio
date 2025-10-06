@@ -69,3 +69,4 @@ Tracking in progress: instrumentation for adoption of merge capabilities, reduct
 ### Confidentiality
 Customer details and artifacts are not shared; summaries are sanitized.
 
+[← Back to Home](/ux_research_portfolio/)

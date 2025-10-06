@@ -16,6 +16,6 @@ Welcome. This site shares concise summaries of my lead-level UX Research work.
 - [Improving Identity and Data Management](./improving-identity-and-data-management)
 
 ## About & Contact
-- [Resume Summary](./resume.html)
-- [Contact](./contact.html)
+- [Resume Summary](./resume)
+- [Contact](./contact)
 
