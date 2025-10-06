@@ -13,6 +13,7 @@ title: Improving Identity and Data Management
 Company: Braze  
 Dates: Dec 2023–Present  
 Role: IC/ Research Lead
+Partners: Lead Product Manager and Senior Product Designer
 
 ### The Story
 Identity and data quality sit at the core of lifecycle marketing. As our customers scaled, cracks appeared: duplicate user profiles obscured who the user truly was, teams lacked shared understanding of what data existed and how it should be used, and operators needed clarity fast to orchestrate campaigns with confidence. I led a multi-round research effort to map the real problems, align on decisions, and guide near-term product improvements alongside longer-term strategy.
