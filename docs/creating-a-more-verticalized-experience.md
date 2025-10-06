@@ -4,7 +4,7 @@ title: Creating a More Verticalized Experience
 
 # Creating a More Verticalized Experience — Product Strategy Case Study
 
-For full details, see the [repository version](../case_studies/creating_a_more_verticalized_experience.md).
+For full details, see the [repository version](https://github.com/lindanguyen9/ux_research_portfolio/blob/main/case_studies/creating_a_more_verticalized_experience.md).
 
 {% raw %}
 {{ site.description }}
