@@ -80,6 +80,7 @@ Targets are being finalized with PM/DS; results will be appended once datasets s
 - Continue industry scanning to identify where vertical needs diverge further and to ensure our accelerators remain differentiated.
 
 ## Confidentiality
+For full repository source, see [this file on GitHub](https://github.com/lindanguyen9/ux_research_portfolio/blob/main/case_studies/creating_a_more_verticalized_experience.md).
 Verticals anonymized as A/B/C. Customer names, datasets, and partner details omitted or generalized. No external artifacts are shared due to confidentiality; summaries provided here are sanitized.
 
 ## Executive Summary
