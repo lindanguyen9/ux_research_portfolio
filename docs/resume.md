@@ -7,7 +7,7 @@ title: Resume Summary
 For full repository source, see [this file on GitHub](https://github.com/lindanguyen9/ux_research_portfolio/blob/main/resume_summary.md).
 
 ## LINDA NGUYEN
-(281) 750-9137 | lindathunguyen@gmail.com | LinkedIn
+(281) 750-9137 | lindathunguyen@gmail.com
 
 ### SUMMARY
 Lead-level UX Researcher specializing in product strategy, enterprise workflows, and growth experimentation. I align executives and cross-functional teams through mixed-methods evidence, clear decision narratives, and scalable research programs that move activation, retention, and roadmap quality.
