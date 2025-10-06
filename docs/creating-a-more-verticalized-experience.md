@@ -4,6 +4,10 @@ title: Creating a More Verticalized Experience
 
 # Creating a More Verticalized Experience — Product Strategy Case Study
 
+For full repository source, see [this file on GitHub](https://github.com/lindanguyen9/ux_research_portfolio/blob/main/case_studies/creating_a_more_verticalized_experience.md).
+
+## Story, Approach, Insights, Impact, Leadership
+
 Company: Braze  
 Dates: 2024–2025  
 Role: IC / Research Lead  
