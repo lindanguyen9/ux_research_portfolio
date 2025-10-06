@@ -4,8 +4,6 @@ title: Creating a More Verticalized Experience
 
 # Creating a More Verticalized Experience — Product Strategy Case Study
 
-For full repository source, see [this file on GitHub](https://github.com/lindanguyen9/ux_research_portfolio/blob/main/case_studies/creating_a_more_verticalized_experience.md).
-
 ## Story, Approach, Insights, Impact, Leadership
 
 Company: Braze  
@@ -14,12 +12,12 @@ Role: IC / Research Lead
 Partners: Sr. Product Director, Sr. Staff Product Designer, Engineering Director, later Sr. Product Designer and Lead PM; indirect partners across Verticalized Solutions, Industry Leads, Product Marketing, Pricing/Strategy
 
 ## Executive Summary
-- Problem: One-size-fits-all experience created friction for key segments; risk to activation and retention.
+- Problem: One-size-fits-all experience created friction for key segments; risk to time to value and retention.
 - Decisions: Focus investment and sequencing by segment; strengthen platform primitives and add role-ready templates/guardrails.
-- Outcomes: Account-objects beta shipped; segmentation overhaul prioritized; governance cadence aligned decisions across divisions.
+- Outcomes: Currently in Beta for a related feature; segmentation overhaul prioritized; aligned decisions across divisions.
 
 ## The Story
-As Braze expanded into increasingly diverse customer contexts, we saw a pattern: the needs of different industries were diverging faster than our one-size-fits-all product could keep up. Churn analysis and field conversations pointed to a common thread—teams wanted the power of our platform, but with less configuration burden, fewer workarounds, and more guidance that matched their operating realities. We set out to understand how a more verticalized experience could both improve customer outcomes and inform product strategy across divisions.
+As Braze has expanded into increasingly diverse customer contexts, we saw a pattern: the needs of different industries were diverging faster than our one-size-fits-all product could keep up. Churn analysis and field conversations pointed to a common thread -- teams in different industrues wanted the power of our platform, but with fewer workarounds, and more guidance that matched their operating realities. We set out to understand how a more verticalized experience could both improve customer outcomes and inform product strategy across divisions.
 
 Our mandate was to clarify how much to invest in each of three priority verticals (anonymized as Vertical A, Vertical B, Vertical C), what problems mattered most, and how to sequence product bets. I led the research program framing, execution, and storytelling to guide roadmap decisions.
 
@@ -38,31 +36,31 @@ Why this mix: We needed rich domain understanding (qual) paired with pattern val
 
 ## What We Learned (Selected Insights)
 1) Vertical A expects native support for entity relationships out of the box  
-   Evidence: Repeated workarounds and schema gymnastics were required to represent complex account-person hierarchies; support tickets clustered around these patterns.
+   Evidence: Repeated workarounds and data schema gymnastics were required to represent complex account-person hierarchies; we saw evidence of support tickets clustered around these patterns.
 
 2) Vertical B’s non-technical operators need more guardrails in audience building  
-   Evidence: Usability sessions and CS feedback showed error-prone segmentation flows; time-to-first-accurate-segment was high, and users leaned on power users to validate logic.
+   Evidence: Usability sessions and CS feedback indicated that customers were unhappy with the overall segmentation experience, felt like they needed to rely on costly workarounds to get the segments they wanted, and users leaned on power users to validate logic.
 
-3) Vertical C prioritizes speed-to-orchestration over deep customization  
-   Evidence: Field interviews emphasized pre-configured templates and best-practice flows; customers adopted quick-start patterns faster when provided opinionated defaults.
+3) Vertical C was operating in a highly regulated environment indicating the need for more guardrails and additional observability
+   Evidence: In-depth interviews indicated that these marketers worked closely with compliance and legal teams in order to ensure that all communications were approved before sending to customers. Additionally, these customers felt like tiny paper cuts in the experience presented major issues to their communciations strategy
 
 4) Platform-wide, customers want guidance that reflects their operating model  
-   Evidence: Interviews and internal win/loss notes highlighted that prescriptive patterns (examples, templates, governance) unlocked activation and reduced configuration debt.
+   Evidence: Interviews and internal win/loss notes highlighted clear patterns at the level of the vertical itself but that different verticals had different needs and priorities
 
 ## What Changed Because of the Research
-- Shipped: Account-objects beta to better support multi-entity relationships critical for Vertical A scenarios.
+- Shipped: Beta to better support the data structure for Vertical A scenarios.
 - Roadmap Influence: Audience segmentation overhaul prioritized to meet the needs of non-technical operators identified in Vertical B.
 - Sequencing: Proposed a two-track strategy—(a) invest in core data model primitives with cross-vertical leverage; (b) layer opinionated templates and guardrails by vertical to accelerate adoption without fragmenting the platform.
 
 ## Impact (Early Signals; Tracking In Progress)
 - Product: Clear problem framing aligned three divisions on shared primitives (data model, segmentation) while enabling verticalized accelerators.
-- Users: Reduced reliance on workarounds in early beta for account objects; clearer segmentation workflows under active redesign to reduce setup errors and review cycles.
+- Users: Reduced reliance on workarounds; clearer segmentation workflows under active redesign to reduce setup errors and review cycles.
 - Organization: Created a cross-functional cadence (Product, Design, Eng, GTM) around verticalized insights, informing PM roadmaps and enablement plans.
 
 Tracking in progress with instrumentation and analyses underway. Metrics being monitored:
-- Activation and time-to-value for targeted vertical cohorts
-- Adoption of account-objects beta and migration off legacy workarounds
-- Segmentation error rate and review-cycle duration for non-technical operators
+- Adoption and time-to-value for targeted vertical cohorts
+- Adoption of new features and migration off legacy workarounds
+- Segmentation ease of use for non-technical operators
 - Retention/churn by vertical cohort post-verticalized improvements
 
 Targets are being finalized with PM/DS; results will be appended once datasets stabilize across cohorts and time windows.
@@ -76,15 +74,14 @@ Targets are being finalized with PM/DS; results will be appended once datasets s
 - Methods: 1:1 customer interviews (by vertical), internal SME interviews + survey, desk research, product usage data review.
 - Sample/Participants: Priority verticals represent >50% of our customer base; participants spanned roles (marketing, data, engineering), seniority (e.g., CRM marketer, CRM lead, marketing operations), and regions (Americas, EMEA, APAC).
 - Partners: PM, Design, Data/Analytics, Engineering; extended partners in Product Marketing and Pricing/Strategy for positioning and packaging implications.
-- Constraints: Compliance and data privacy requirements in Vertical B; stakeholder buy-in required at Director+ level for Vertical A access and resourcing.
+- Constraints: Compliance and data privacy requirements in Vertical C; stakeholder buy-in required at Director+ level for Vertical A access and resourcing.
 
 ## What’s Next
-- Expand the account-objects beta, define success metrics, and capture migration needs for legacy configurations.  
-- Ship opinionated templates and governance guardrails for audience building; instrument to track error rates and review-cycle time.  
+- Continue to build and ship related feature improvements, define success metrics, and capture migration needs for legacy configurations.  
+- Ship opinionated playbooks and governance guardrails
 - Continue industry scanning to identify where vertical needs diverge further and to ensure our accelerators remain differentiated.
 
 ## Confidentiality
-For full repository source, see [this file on GitHub](https://github.com/lindanguyen9/ux_research_portfolio/blob/main/case_studies/creating_a_more_verticalized_experience.md).
 Verticals anonymized as A/B/C. Customer names, datasets, and partner details omitted or generalized. No external artifacts are shared due to confidentiality; summaries provided here are sanitized.
 
 [← Back to Home](/ux_research_portfolio/)
