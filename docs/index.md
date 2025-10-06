@@ -12,8 +12,8 @@ Welcome. This site shares concise summaries of my lead-level UX Research work.
 - Enablement and mentorship to scale research impact
 
 ## Featured Case Studies
-- [Creating a More Verticalized Experience](./creating-a-more-verticalized-experience.html)
-- [Improving Identity and Data Management](./improving-identity-and-data-management.html)
+- [Creating a More Verticalized Experience](./creating-a-more-verticalized-experience)
+- [Improving Identity and Data Management](./improving-identity-and-data-management)
 
 ## About & Contact
 - [Resume Summary](./resume.html)
