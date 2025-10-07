@@ -4,18 +4,16 @@ title: Resume Summary
 
 # Resume Summary
 
-For full repository source, see [this file on GitHub](https://github.com/lindanguyen9/ux_research_portfolio/blob/main/resume_summary.md).
-
 ## LINDA NGUYEN
 (281) 750-9137 | lindathunguyen@gmail.com
 
 ### SUMMARY
-Lead-level UX Researcher specializing in product strategy, enterprise workflows, and growth experimentation. I align executives and cross-functional teams through mixed-methods evidence, clear decision narratives, and scalable research programs that move activation, retention, and roadmap quality.
+Lead-level UX Researcher specializing in product strategy, enterprise workflows, and growth experimentation. I align executives and cross-functional teams through mixed-methods evidence, clear decision narratives, and scalable research programs that move adoption, retention, and roadmap quality.
 
 ### PROFESSIONAL EXPERIENCE
 **SENIOR UX RESEARCHER / Braze, NYC (Remote) (01/2022)-Present**
 - Led verticalization strategy research across major segments; informed investment focus, sequencing, and enablement.
-- Built governance cadence with Product, Design, and Engineering to turn insights into cross-divisional roadmap decisions.
+- Built relationships with Product, Design, and Engineering to turn insights into cross-divisional roadmap decisions.
 - Scaled research capability across the organization by developing and hosting enablement sessions on key tools (FullStory) and methods (R/Qualtrics), empowering partners to conduct their own research and make data-informed decisions.
 - Mentored product designers and junior researchers, and developed a comprehensive onboarding guide to establish a standardized process for UX research.
 - Spearheaded collaborative qualitative and quantitative research with the Product Analytics team to provide a holistic, mixed-methods view of customer behavior.
@@ -31,7 +29,7 @@ Lead-level UX Researcher specializing in product strategy, enterprise workflows,
 - Mentored designers to run moderated studies and synthesize findings for stakeholders.
 
 **NEUROSCIENCE PHD RESEARCHER / UT Dallas, Richardson, TX (03/2020)-(12/2021)**
-- Designed and led multi-method studies across cognitive neuroscience, social psychology, and computer science.
+- Designed and led/co-led multi-method studies across cognitive neuroscience, social psychology, and computer science.
 - Analyzed large datasets and communicated findings to technical and non-technical audiences.
 - Mentored undergraduate and master's students in research design, study creation, and analysis.
 
