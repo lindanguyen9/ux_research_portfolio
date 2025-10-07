@@ -61,10 +61,8 @@ Tracking in progress with instrumentation and analyses underway. Metrics being m
 - Adoption and time-to-value for targeted vertical cohorts
 - Adoption of new features and migration off legacy workarounds
 - Segmentation ease of use for non-technical operators
-- Retention/churn by vertical cohort post-verticalized improvements
-
-Targets are being finalized with PM/DS; results will be appended once datasets stabilize across cohorts and time windows.
-
+- Retention/churn by vertical cohort
+  
 ## Leadership Actions
 - Co-authored a future-state narrative for Vertical A scenarios with the Sr. Staff Product Designer, grounding decisions in evidence and proposing a phased adoption plan.
 - Partnered with PMs for the other verticals to translate insights into prioritized next steps and additional research, ensuring teams owned clear problem statements and decision criteria.
